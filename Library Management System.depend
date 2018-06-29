@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1530257301 source:c:\users\siddhartha\desktop\bjet submitted cpp projects\library management system\main.cpp
+	<fstream>
+	<conio.h>
+	<stdio.h>
+	<process.h>
+	<string.h>
+	<iomanip>
+	<iostream>
+	<stdlib.h>
+
